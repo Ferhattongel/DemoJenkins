@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="25.334">
-    <testcase classname="google title verification" name="verify title" time="6.187">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="27.309">
+    <testcase classname="google title verification" name="verify title" time="7.746">
         <system-out>
             <![CDATA[Given user on the google page...............................................passed
 When user search "apple"....................................................passed
@@ -8,7 +8,7 @@ Then user should be able to see title starts with "apple"...................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="The application should be running" name="simple search" time="9.798">
+    <testcase classname="The application should be running" name="simple search" time="9.584">
         <system-out>
             <![CDATA[Given I am on the home page.................................................passed
 When I search for "wooden spoon"............................................passed
@@ -16,7 +16,7 @@ Then I should see the results...............................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="The application should be running" name="another search" time="8.985">
+    <testcase classname="The application should be running" name="another search" time="9.629">
         <system-out>
             <![CDATA[Given I am on the home page.................................................passed
 When I search for "useless box".............................................passed
