@@ -1,5 +1,5 @@
 Feature: google title verification
-  @smoke
+  @smoke @t
   Scenario: verify title
     Given user on the google page
     When  user search "apple"
